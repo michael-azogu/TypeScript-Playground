@@ -1,1 +1,4 @@
-console.log(1)
+console.log(1);
+for (let i: number = 0; i < 10; i++) {
+  console.log(i);
+}
